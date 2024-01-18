@@ -1,4 +1,9 @@
-# This summarizes all the SQLite commands and steps I used to solve the [SQL mystery](https://mystery.knightlab.com/)
+# Project_Solve-Murder-Mystery-using-SQL
+Refer to the project page on my website for detailed discussion on the project.
+
+Project page: https://rachlllg.github.io/project/2024-Solve_Murder_Mystery_using_SQL/
+
+Summarized below are all the SQLite commands and steps I used to solve the [SQL mystery](https://mystery.knightlab.com/)
 
 ## Provided by the project:
 1. To find the names of the tables within the database
