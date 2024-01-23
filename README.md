@@ -1,7 +1,7 @@
-# Project_Solve-Murder-Mystery-using-SQL
-Refer to the project page on my website for detailed discussion on the project.
+# Blog_Solve-Murder-Mystery-using-SQL
+Refer to the blog page on my website for more detailed discussions.
 
-Project page: https://rachlllg.github.io/project/2024-Solve_Murder_Mystery_using_SQL/
+Website page: https://rachlllg.github.io/blog/Solve-murder-myster-using-SQL/
 
 Summarized below are all the SQLite commands and steps I used to solve the [SQL mystery](https://mystery.knightlab.com/)
 
